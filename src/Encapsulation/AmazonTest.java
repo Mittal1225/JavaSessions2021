@@ -17,9 +17,7 @@ public class AmazonTest {
 		
 		lp.doLogin(lp.getUsername(), lp.getPassword());
 	
-		
-		
-	}
+		}
 	
 
 }
