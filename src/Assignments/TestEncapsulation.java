@@ -9,12 +9,7 @@ public class TestEncapsulation {
 		JavaEncapsulation e = new JavaEncapsulation();
 		e.setAge(10);
 		System.out.println(e.getAge());
-		
-		
-		
-		
-		
-		
+			
 		
 	}
 	
